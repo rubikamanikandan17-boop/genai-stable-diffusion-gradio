@@ -40,7 +40,7 @@ def generate(prompt, negative_prompt, steps, guidance, width, height):
 gr.close_all()
 ```
 ### OUTPUT:
-<img width="1711" height="919" alt="image" src="https://github.com/user-attachments/assets/49c2fcaa-6b21-458e-955e-dade5b36bf91" />
+<img width="1711" height="919" alt="image" src="https://github.com/user-attachments/assets/ac764b09-b490-49c0-86d7-b47f056098e6" />
 
 
 ### RESULT:
